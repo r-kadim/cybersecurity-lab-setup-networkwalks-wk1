@@ -1,2 +1,2 @@
-# cybersecurity-lab-setup-networkwalks-wk1
+# NETWORKWALKS-RKADIM-B084-WK1-PM1-CYBERSECURITY-LAB-SETUP
 This is my first project on GitHub.
