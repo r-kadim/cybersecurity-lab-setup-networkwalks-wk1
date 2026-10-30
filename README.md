@@ -23,6 +23,14 @@ The purpose of this lab is basically to setup a cyber security lab environment u
 *   **Storage:** Micron 3400 477 GB NVMe M.2 SSD, Western Digital WD10SPX 932 GB HDD
 *   **Hypervisor:**  VirtualBox 7.2
 *   **Security OS:**  Kali Linux 2026.3
+*   **Kali RAM:** 2048 MB
+*   **Virtual Network** NAT Network
+*   **Network Address:**  10.0.0.0/24
+*   **Kali IP Address:**  10.0.0.2/24
+*   **DNS Server:**  10.0.0.1
 *   
+*   
+
+| 🔮 Future VM Range | 10.0.0.3–10.0.0.99 |
 
 *   **Lab Router:** Ubiquiti EdgeRouter X (Custom Homelab Subnet)
