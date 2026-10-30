@@ -109,9 +109,11 @@ The snapshot is the clean baseline you can go back to if by chance something bre
 7-Zip: https://7-zip.org/download.html
 VirtualBox: https://virtualbox.org/wiki/Downloads
 Kali Linux: https://kali.org/get-kali
+---
 
-##👤Author
-###Rajesh Kadim
+👤Author
+
+**Rajesh Kadim**\
 Cybersecurity Intern B084
 
 LinkedIn: https://www.linkedin.com/in/rajesh-kadim/
