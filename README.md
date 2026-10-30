@@ -109,28 +109,17 @@ The snapshot is the clean baseline you can go back to if by chance something bre
 
 In this project I learned how to properly setup VirtualBox with a specified operating system image file in this case Kali Linux with working internet. I learned how to configure the VirtualBox for cybersecurity practice. I learned :
 
-** NAT Network allows multiple Virtual Machines in an internal network to communicate with one another in the same virtual network while NAT is only for one single virtual machine with internet access.
+##  I 
 
+*  **NAT Network** allows multiple Virtual Machines in an internal network to communicate with one another in the same virtual network while **NAT** is only for one single virtual machine with internet access. This is an essential tool in developing a multisystem cybersecurity lab.
 
-This makes it useful for building a multi-machine cybersecurity laboratory.
-
-### 2. Virtual Machine Networking
-
-I learned how VirtualBox virtual network adapters connect virtual machines to different types of networks and how network configuration affects communication between machines.
-
-### 3. Static IP Configuration
-
-I learned how to configure and verify IPv4 addressing, subnet masks, gateways, and DNS settings in Kali Linux.
-
-### 4. VM Snapshots
-
-I learned that a clean snapshot should be created **before performing risky or experimental activities**.
-
-This provides a known-good recovery point for future cybersecurity exercises.
+* **I learned how to properly setup and configure Kali Linux on VirtualBox with the proper IPv4 addressing.
+* **I learned VirtualMachine snapshot is a baseline working configuration or recovery point to go back to if something breaks in future cybersecurity lab experiments.
+* **I learned documentation is very important part of a cybersecurity project making specific notes on problems that may arise and how to resolve them documenting the commands and configuration, screenshots, problems, and solutions
 
 ### 5. Documentation
 
-I learned that documenting commands, configuration, screenshots, problems, and solutions is an important part of a professional cybersecurity project.
+I learned that  is an important part of a professional cybersecurity project.
 
 ---
 
