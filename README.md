@@ -67,6 +67,9 @@ Extract the Kali Linux download file using 7-Zip or WinRAR and import the extrac
 
 <img width="513" height="332" alt="Kali Import 2" src="https://github.com/user-attachments/assets/192c877d-edd0-4a0e-8b23-c7ccbab062d1" />
 
+Successful import should look like the image below.
+
+<img width="960" height="515" alt="Kali sucessful Import " src="https://github.com/user-attachments/assets/76c85dc3-2fac-4b69-8926-832793f10f10" />
 
 **Tool:** Kali Linux
 
