@@ -69,7 +69,7 @@ Extract the Kali Linux download file using 7-Zip or WinRAR and import the extrac
 
 Successful import should look like the image below.
 
-<img width="960" height="515" alt="Kali sucessful Import " src="https://github.com/user-attachments/assets/76c85dc3-2fac-4b69-8926-832793f10f10" />
+<img width="960" height="511" alt="Kali sucessful Import " src="https://github.com/user-attachments/assets/1bec4630-84d2-4fb9-8501-394541255433" />
 
 **Tool:** Kali Linux
 
@@ -105,4 +105,3 @@ The snapshot is the clean baseline you can go back to if by chance something bre
 
 <img width="960" height="515" alt="Snapshot" src="https://github.com/user-attachments/assets/9020381d-13a8-4c46-a926-f0e423ee99fc" />
 
-**Tool:** VirtualBox 7.2.22
