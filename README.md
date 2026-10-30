@@ -82,6 +82,8 @@ Click edit connections and double click Wired Connection 1. Open IPv4 Settings t
 
 <img width="1280" height="800" alt="VirtualBox_kali-linux-2026 3-virtualbox-amd64_30_10_2026_01_40_38" src="https://github.com/user-attachments/assets/0ab090ee-a43c-4e27-9a88-4954b0d52461" />
 
+Assigned the following settings in IPv4 Settings in Kali.
+
 ### Kali Network Settings
 | IP Address | 10.0.0.2|
 | :--- | :--- | 
@@ -91,6 +93,9 @@ Click edit connections and double click Wired Connection 1. Open IPv4 Settings t
 
 <img width="1280" height="800" alt="VirtualBox_kali-linux-2026 3-virtualbox-amd64_30_10_2026_01_45_03" src="https://github.com/user-attachments/assets/0623e325-e161-4bcc-9ff7-ae968c46af67" />
 
+Confirm internet is working in Kali Linux.
+
+<img width="1280" height="800" alt="VirtualBox_kali-linux-2026 3-virtualbox-amd64_30_10_2026_02_13_02" src="https://github.com/user-attachments/assets/fd60e64e-2910-4399-9f97-9f9ae0f233a8" />
 
 
 VirtualBox was installed as the virtual machine environment to run the Kali Linux operating system.
