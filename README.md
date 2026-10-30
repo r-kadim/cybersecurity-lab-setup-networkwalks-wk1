@@ -101,6 +101,8 @@ Confirm internet is working in Kali Linux.
 
 ## Step 6. Take a snapshot of Kali Linux.
 
+The snapshot is the clean baseline you can go back to if by chance something breaks in future labs.
+
 <img width="1920" height="1030" alt="Snapshot" src="https://github.com/user-attachments/assets/9020381d-13a8-4c46-a926-f0e423ee99fc" />
 
 **Tool:** VirtualBox 7.2.22
