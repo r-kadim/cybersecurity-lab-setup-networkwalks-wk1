@@ -74,9 +74,18 @@ Successful import should look like the image below.
 **Tool:** Kali Linux
 
 
+## Step 5 . Setup the IP Configuration in the Kali Linux virtual machine in Virtualbox.
+
+<img width="1280" height="800" alt="VirtualBox_kali-linux-2026 3-virtualbox-amd64_30_10_2026_01_33_41" src="https://github.com/user-attachments/assets/195c6059-8f13-4229-a75d-8de67026979c" />
+
+Click edit connections and double click Wired Connection 1. Open IPv4 Settings tab
+
+<img width="1280" height="800" alt="VirtualBox_kali-linux-2026 3-virtualbox-amd64_30_10_2026_01_40_38" src="https://github.com/user-attachments/assets/0ab090ee-a43c-4e27-9a88-4954b0d52461" />
+
+<img width="1280" height="800" alt="VirtualBox_kali-linux-2026 3-virtualbox-amd64_30_10_2026_01_45_03" src="https://github.com/user-attachments/assets/0623e325-e161-4bcc-9ff7-ae968c46af67" />
 
 
-## Step 5 . Download and Install VirtualBox.
+
 VirtualBox was installed as the virtual machine environment to run the Kali Linux operating system.
 
 **Tool:** VirtualBox 7.2.22
