@@ -52,13 +52,20 @@ VirtualBox was installed as the virtual machine environment to run the Kali Linu
 
 <img width="341.5" height="230" alt="NAT Network 1" src="https://github.com/user-attachments/assets/8fae0a78-0903-474b-84e1-aa0fbd367ba5" />
 
-
 <img width="960" height="500" alt="NAT Network 2" src="https://github.com/user-attachments/assets/ae296777-1571-4c98-80c5-d3ed413dec78" />
 
-## Step 4 . Download and Install VirtualBox.
-VirtualBox was installed as the virtual machine environment to run the Kali Linux operating system.
+### Step 4 . Download and Import Kali Linux to VirtualBox.
+Go to https://www.kali.org/get-kali/#kali-platforms and click Virtual Machines. 
+<img width="960" height="446" alt="Kali web" src="https://github.com/user-attachments/assets/d45a4581-fbc6-48c5-af65-3be32d95b0d8" />
 
-**Tool:** VirtualBox 7.2.22
+Click VirtualBox and wait for it to complete downloading.
+
+<img width="960" height="447" alt="Kali web 2" src="https://github.com/user-attachments/assets/ef0bd7f2-6e33-47ef-927a-c66ac41934de" />
+
+**Tool:** Kali Linux
+
+
+
 
 ## Step 5 . Download and Install VirtualBox.
 VirtualBox was installed as the virtual machine environment to run the Kali Linux operating system.
