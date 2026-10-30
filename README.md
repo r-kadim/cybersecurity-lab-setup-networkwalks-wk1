@@ -28,4 +28,9 @@ The purpose of this lab is basically to setup a cyber security lab environment u
 *   **Network Address:**  10.0.0.0/24
 *   **Kali IP Address:**  10.0.0.2/24
 *   **DNS Server:**  10.0.0.1
-  
+
+## Step 1 . Install 7-Zip or similar.
+7-Zip is installed to extract the Kali Linux virtual machine package for VirtualBox, which may be distributed as a `.7z` archive.
+
+**Tool:** 7-Zip
+
