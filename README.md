@@ -29,19 +29,31 @@ The purpose of this lab is basically to setup a cyber security lab environment u
 *   **Kali IP Address:**  10.0.0.2/24
 *   **DNS Server:**  10.0.0.1
 
-## Step 1 . Download and Install 7-Zip or similar.
+### Step 1 . Download and Install 7-Zip or similar.
 7-Zip is installed to extract the Kali Linux virtual machine package for VirtualBox, which typically is distributed as a `.7z` compressed file.
 
 **Tool:** 7-Zip, WinRar
 
-## Step 2 . Download and Install VirtualBox.
+### Step 2 . Download and Install VirtualBox.
 VirtualBox was installed as the virtual machine environment to run the Kali Linux operating system.
 
 **Tool:** VirtualBox 7.2.22
 
-## Step 3. Create NAT Network in VirtualBox.
+### Step 3. Create NAT Network in VirtualBox using the IP Address 10.0.0.0/24.
 
 
+#### Configuration
+
+| Network Name      | NAT Network  |
+| ------------------| -------------|
+| IPv4 Prefix       | 10.0.0.0/24  |
+| DHCP              | Enabled      |
+| IPv6              | Disabled     |
+
+<img width="341.5" height="230" alt="NAT Network 1" src="https://github.com/user-attachments/assets/8fae0a78-0903-474b-84e1-aa0fbd367ba5" />
+
+
+<img width="960" height="500" alt="NAT Network 2" src="https://github.com/user-attachments/assets/ae296777-1571-4c98-80c5-d3ed413dec78" />
 
 ## Step 4 . Download and Install VirtualBox.
 VirtualBox was installed as the virtual machine environment to run the Kali Linux operating system.
