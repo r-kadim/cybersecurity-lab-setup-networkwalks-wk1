@@ -123,7 +123,7 @@ In this project I learned how to properly setup VirtualBox with a specified oper
 - **VirtualBox:** [https://virtualbox.org/wiki/Downloads](https://virtualbox.org/wiki/Downloads)
 - **Kali Linux:** [https://kali.org/get-kali](https://kali.org/get-kali)
 
-## 👤 Author
+##  Author
 **Rajesh Kadim**\
 Cybersecurity Intern B084
 
