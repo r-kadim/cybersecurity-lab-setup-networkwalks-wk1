@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Skill-Cybersecurity-404040?style=flat-square&labelColor=C00000" />
-  <img src="https://img.shields.io/badge/Ver-Virtualbox%20v7.2-0070C0?style=flat-square&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Ver-Virtualbox%20v7.2.22-0070C0?style=flat-square&labelColor=000000" />
   <img src="https://img.shields.io/badge/Kali%20Linux-v2026.3-E87500?style=flat-square&labelColor=000000&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Skill-Linux-404040?style=flat-square&labelColor=C00000" />
   <img src="https://img.shields.io/badge/Penetration%20Testing-C00000?style=flat-square&labelColor=000000&logo=kalilinux&logoColor=white" />
@@ -21,7 +21,7 @@ The purpose of this lab is basically to setup a cyber security lab environment u
 *   **Processor:** Intel Core i7-11800H @ 2.3 GHz
 *   **Graphics:** NVIDIA RTX 3060 Laptop GPU (6 GB), Intel(R) UHD Graphpics (128 MB)
 *   **Storage:** Micron 3400 477 GB NVMe M.2 SSD, Western Digital WD10SPX 932 GB HDD
-*   **Hypervisor:**  VirtualBox 7.2
+*   **Hypervisor:**  VirtualBox 7.2.22
 *   **Security OS:**  Kali Linux 2026.3
 *   **Kali RAM:** 2048 MB
 *   **Virtual Network** NAT Network
