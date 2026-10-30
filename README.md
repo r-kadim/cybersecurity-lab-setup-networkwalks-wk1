@@ -38,3 +38,22 @@ The purpose of this lab is basically to setup a cyber security lab environment u
 VirtualBox was installed as the virtual machine environment to run the Kali Linux operating system.
 
 **Tool:** VirtualBox 7.2.22
+
+## Step 3. Create NAT Network in VirtualBox.
+
+
+
+## Step 4 . Download and Install VirtualBox.
+VirtualBox was installed as the virtual machine environment to run the Kali Linux operating system.
+
+**Tool:** VirtualBox 7.2.22
+
+## Step 5 . Download and Install VirtualBox.
+VirtualBox was installed as the virtual machine environment to run the Kali Linux operating system.
+
+**Tool:** VirtualBox 7.2.22
+
+## Step 6 . Download and Install VirtualBox.
+VirtualBox was installed as the virtual machine environment to run the Kali Linux operating system.
+
+**Tool:** VirtualBox 7.2.22
