@@ -74,7 +74,7 @@ Successful import should look like the image below.
 **Tool:** Kali Linux
 
 
-## Step 5 . Setup the IP Configuration in the Kali Linux virtual machine in Virtualbox.
+### Step 5 . Setup the IP Configuration in the Kali Linux virtual machine in Virtualbox.
 
 <img width="640" height="400" alt="VirtualBox_kali-linux-2026 3-virtualbox-amd64_30_10_2026_01_33_41" src="https://github.com/user-attachments/assets/195c6059-8f13-4229-a75d-8de67026979c" />
 
@@ -99,7 +99,7 @@ Confirm internet is working in Kali Linux.
 
 **Tool:** VirtualBox 7.2.22, Kali Linux
 
-## Step 6. Take a snapshot of Kali Linux.
+### Step 6. Take a snapshot of Kali Linux.
 
 The snapshot is the clean baseline you can go back to if by chance something breaks in future labs.
 
