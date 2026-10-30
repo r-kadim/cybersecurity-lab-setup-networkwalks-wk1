@@ -97,12 +97,10 @@ Confirm internet is working in Kali Linux.
 
 <img width="1280" height="800" alt="VirtualBox_kali-linux-2026 3-virtualbox-amd64_30_10_2026_02_13_02" src="https://github.com/user-attachments/assets/fd60e64e-2910-4399-9f97-9f9ae0f233a8" />
 
+**Tool:** VirtualBox 7.2.22, Kali Linux
 
-VirtualBox was installed as the virtual machine environment to run the Kali Linux operating system.
+## Step 6. Take a snapshot of Kali Linux.
 
-**Tool:** VirtualBox 7.2.22
-
-## Step 6 . Download and Install VirtualBox.
-VirtualBox was installed as the virtual machine environment to run the Kali Linux operating system.
+<img width="1920" height="1030" alt="Snapshot" src="https://github.com/user-attachments/assets/9020381d-13a8-4c46-a926-f0e423ee99fc" />
 
 **Tool:** VirtualBox 7.2.22
