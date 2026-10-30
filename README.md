@@ -82,6 +82,13 @@ Click edit connections and double click Wired Connection 1. Open IPv4 Settings t
 
 <img width="1280" height="800" alt="VirtualBox_kali-linux-2026 3-virtualbox-amd64_30_10_2026_01_40_38" src="https://github.com/user-attachments/assets/0ab090ee-a43c-4e27-9a88-4954b0d52461" />
 
+### Kali Network Settings
+| IP Address | 10.0.0.2|
+| :--- | :--- | 
+| Subnet Mask | 255.255.255.0 |
+| Gateway | 10.0.0.1 |
+| DNS| 10.0.0.1 |
+
 <img width="1280" height="800" alt="VirtualBox_kali-linux-2026 3-virtualbox-amd64_30_10_2026_01_45_03" src="https://github.com/user-attachments/assets/0623e325-e161-4bcc-9ff7-ae968c46af67" />
 
 
