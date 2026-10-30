@@ -105,23 +105,16 @@ The snapshot is the clean baseline you can go back to if by chance something bre
 
 <img width="960" height="515" alt="Snapshot" src="https://github.com/user-attachments/assets/9020381d-13a8-4c46-a926-f0e423ee99fc" />
 
-# 💡 What I Learned
+## What I Learned
 
-In this project I learned how to properly setup VirtualBox with a specified operating system image file in this case Kali Linux with working internet. I learned how to configure the VirtualBox for cybersecurity practice. I learned :
-
-##  I 
+In this project I learned how to properly setup VirtualBox with a specified operating system image file in this case Kali Linux with working internet. I learned how to configure the VirtualBox for cybersecurity practice. **I learned :**
 
 *  **NAT Network** allows multiple Virtual Machines in an internal network to communicate with one another in the same virtual network while **NAT** is only for one single virtual machine with internet access. This is an essential tool in developing a multisystem cybersecurity lab.
 
-* **I learned how to properly setup and configure Kali Linux on VirtualBox with the proper IPv4 addressing.
-* **I learned VirtualMachine snapshot is a baseline working configuration or recovery point to go back to if something breaks in future cybersecurity lab experiments.
-* **I learned documentation is very important part of a cybersecurity project making specific notes on problems that may arise and how to resolve them documenting the commands and configuration, screenshots, problems, and solutions
+* I learned how to properly setup and configure **Kali Linux** on **VirtualBox** with the proper **IPv4** addressing.
+* I learned VirtualMachine **snapshot** is a baseline working configuration or recovery point to go back to if something breaks in future cybersecurity lab experiments.
+* I learned that **documentation** is a very important part of a cybersecurity project. This includes making specific notes on problems that may arise and how to resolve them, documenting the exact commands and configurations needed, providing screenshots for reference, and keeping system snapshots as a failsafe just in case all else fails.
 
-### 5. Documentation
-
-I learned that  is an important part of a professional cybersecurity project.
-
----
 
 
 ##  Tools & Resources
