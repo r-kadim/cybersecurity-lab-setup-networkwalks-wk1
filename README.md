@@ -76,11 +76,11 @@ Successful import should look like the image below.
 
 ## Step 5 . Setup the IP Configuration in the Kali Linux virtual machine in Virtualbox.
 
-<img width="1280" height="800" alt="VirtualBox_kali-linux-2026 3-virtualbox-amd64_30_10_2026_01_33_41" src="https://github.com/user-attachments/assets/195c6059-8f13-4229-a75d-8de67026979c" />
+<img width="640" height="400" alt="VirtualBox_kali-linux-2026 3-virtualbox-amd64_30_10_2026_01_33_41" src="https://github.com/user-attachments/assets/195c6059-8f13-4229-a75d-8de67026979c" />
 
 Click edit connections and double click Wired Connection 1. Open IPv4 Settings tab
 
-<img width="1280" height="800" alt="VirtualBox_kali-linux-2026 3-virtualbox-amd64_30_10_2026_01_40_38" src="https://github.com/user-attachments/assets/0ab090ee-a43c-4e27-9a88-4954b0d52461" />
+<img width="640" height="400" alt="VirtualBox_kali-linux-2026 3-virtualbox-amd64_30_10_2026_01_40_38" src="https://github.com/user-attachments/assets/0ab090ee-a43c-4e27-9a88-4954b0d52461" />
 
 Assigned the following settings in IPv4 Settings in Kali.
 
@@ -91,11 +91,11 @@ Assigned the following settings in IPv4 Settings in Kali.
 | Gateway | 10.0.0.1 |
 | DNS| 10.0.0.1 |
 
-<img width="1280" height="800" alt="VirtualBox_kali-linux-2026 3-virtualbox-amd64_30_10_2026_01_45_03" src="https://github.com/user-attachments/assets/0623e325-e161-4bcc-9ff7-ae968c46af67" />
+<img width="640" height="400" alt="VirtualBox_kali-linux-2026 3-virtualbox-amd64_30_10_2026_01_45_03" src="https://github.com/user-attachments/assets/0623e325-e161-4bcc-9ff7-ae968c46af67" />
 
 Confirm internet is working in Kali Linux.
 
-<img width="1280" height="800" alt="VirtualBox_kali-linux-2026 3-virtualbox-amd64_30_10_2026_02_13_02" src="https://github.com/user-attachments/assets/fd60e64e-2910-4399-9f97-9f9ae0f233a8" />
+<img width="640" height="400" alt="VirtualBox_kali-linux-2026 3-virtualbox-amd64_30_10_2026_02_13_02" src="https://github.com/user-attachments/assets/fd60e64e-2910-4399-9f97-9f9ae0f233a8" />
 
 **Tool:** VirtualBox 7.2.22, Kali Linux
 
@@ -103,6 +103,6 @@ Confirm internet is working in Kali Linux.
 
 The snapshot is the clean baseline you can go back to if by chance something breaks in future labs.
 
-<img width="1920" height="1030" alt="Snapshot" src="https://github.com/user-attachments/assets/9020381d-13a8-4c46-a926-f0e423ee99fc" />
+<img width="960" height="515" alt="Snapshot" src="https://github.com/user-attachments/assets/9020381d-13a8-4c46-a926-f0e423ee99fc" />
 
 **Tool:** VirtualBox 7.2.22
