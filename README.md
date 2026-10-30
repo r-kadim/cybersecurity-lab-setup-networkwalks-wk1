@@ -62,6 +62,8 @@ Click VirtualBox and wait for it to complete downloading.
 
 <img width="960" height="447" alt="Kali web 2" src="https://github.com/user-attachments/assets/ef0bd7f2-6e33-47ef-927a-c66ac41934de" />
 
+Extract the Kali Linux download file using 7-Zip or WinRAR and import the extracted folder to VirtualBox. <img width="644" height="524" alt="Kali Import" src="https://github.com/user-attachments/assets/b67bada3-ed65-4b15-8f51-c587770d8864" />
+
 **Tool:** Kali Linux
 
 
