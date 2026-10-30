@@ -105,18 +105,18 @@ The snapshot is the clean baseline you can go back to if by chance something bre
 
 <img width="960" height="515" alt="Snapshot" src="https://github.com/user-attachments/assets/9020381d-13a8-4c46-a926-f0e423ee99fc" />
 
-🔗 Tools & Resources
-7-Zip: https://7-zip.org/download.html
-VirtualBox: https://virtualbox.org/wiki/Downloads
-Kali Linux: https://kali.org/get-kali
----
+##  Tools & Resources
 
-👤Author
+- **7-Zip:** [https://7-zip.org/download.html](https://7-zip.org/download.html)
+- **VirtualBox:** [https://virtualbox.org/wiki/Downloads](https://virtualbox.org/wiki/Downloads)
+- **Kali Linux:** [https://kali.org/get-kali](https://kali.org/get-kali)
 
+## 👤 Author
 **Rajesh Kadim**\
 Cybersecurity Intern B084
 
 LinkedIn: https://www.linkedin.com/in/rajesh-kadim/
 
-📌 Project Information
-Program Name: Cybersecurity at Networkwalks | Week: 01 | Project: Cybersecurity & Pentesting Lab Setup | Repository: GitHub
+##  Project Information
+Program Name: Cybersecurity at Networkwalks | **Week:** 01 | Project: Cybersecurity & Pentesting Lab Setup | **Repository:** GitHub
+
