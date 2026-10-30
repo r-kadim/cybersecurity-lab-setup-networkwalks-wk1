@@ -105,6 +105,36 @@ The snapshot is the clean baseline you can go back to if by chance something bre
 
 <img width="960" height="515" alt="Snapshot" src="https://github.com/user-attachments/assets/9020381d-13a8-4c46-a926-f0e423ee99fc" />
 
+# 💡 What I Learned
+
+In this project I learned how to properly setup VirtualBox with a specified operating system image file in this case Kali Linux with working internet. I learned how to configure the VirtualBox for cybersecurity practice. I learned :
+
+** NAT Network allows multiple Virtual Machines in an internal network to communicate with one another in the same virtual network while NAT is only for one single virtual machine with internet access.
+
+
+This makes it useful for building a multi-machine cybersecurity laboratory.
+
+### 2. Virtual Machine Networking
+
+I learned how VirtualBox virtual network adapters connect virtual machines to different types of networks and how network configuration affects communication between machines.
+
+### 3. Static IP Configuration
+
+I learned how to configure and verify IPv4 addressing, subnet masks, gateways, and DNS settings in Kali Linux.
+
+### 4. VM Snapshots
+
+I learned that a clean snapshot should be created **before performing risky or experimental activities**.
+
+This provides a known-good recovery point for future cybersecurity exercises.
+
+### 5. Documentation
+
+I learned that documenting commands, configuration, screenshots, problems, and solutions is an important part of a professional cybersecurity project.
+
+---
+
+
 ##  Tools & Resources
 
 - **7-Zip:** [https://7-zip.org/download.html](https://7-zip.org/download.html)
