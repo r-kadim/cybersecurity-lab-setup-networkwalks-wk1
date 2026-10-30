@@ -15,7 +15,7 @@ This is my first project on GitHub setting up a Cybersecurity Lab environment us
 ##
 The purpose of this lab is basically to setup a cyber security lab environment using the system you currently have to practice and experiment with cybersecurity principles using Virtualbox.
 
-## 🛠️ Lab Configuration
+##  Lab Configuration
 *   **Host OS:** Windows 10 Home
 *   **Host RAM:**  16.0 GB (15.8 GB usable)
 *   **Processor:** Intel Core i7-11800H @ 2.3 GHz
@@ -28,9 +28,4 @@ The purpose of this lab is basically to setup a cyber security lab environment u
 *   **Network Address:**  10.0.0.0/24
 *   **Kali IP Address:**  10.0.0.2/24
 *   **DNS Server:**  10.0.0.1
-*   
-*   
-
-| 🔮 Future VM Range | 10.0.0.3–10.0.0.99 |
-
-*   **Lab Router:** Ubiquiti EdgeRouter X (Custom Homelab Subnet)
+  
