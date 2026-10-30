@@ -30,7 +30,11 @@ The purpose of this lab is basically to setup a cyber security lab environment u
 *   **DNS Server:**  10.0.0.1
 
 ## Step 1 . Install 7-Zip or similar.
-7-Zip is installed to extract the Kali Linux virtual machine package for VirtualBox, which may be distributed as a `.7z` archive.
+7-Zip is installed to extract the Kali Linux virtual machine package for VirtualBox, which typically is distributed as a `.7z` compressed file.
 
-**Tool:** 7-Zip
+**Tool:** 7-Zip, WinRar
 
+## Step 2 . Download and Install VirtualBox.
+VirtualBox was installed as the virtual machine environment to run the Kali Linux operating system.
+
+**Tool:** VirtualBox 7.2.22
